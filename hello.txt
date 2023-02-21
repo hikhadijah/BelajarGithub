@@ -2,3 +2,4 @@ Hello
 Hello World
 
 Mencoba menambahkan pembaruan deskripsi
+Squash 1
